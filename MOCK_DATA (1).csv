@@ -1,0 +1,1001 @@
+Id,name,sex,urban/rural,income,GPA,parents qualification,average attendance,dropout
+1,Helenelizabeth,Female,rural,114586,3.8,High school,81,true
+2,Othella,Female,rural,7449,1.9,illiterate,56,false
+3,Sheryl,Female,urban,23284,3.3,illiterate,25,false
+4,Karim,Male,rural,212267,8.8,Graduate,24,true
+5,Lanny,Female,urban,585328,7.1,Graduate,20,false
+6,Janina,Female,rural,353276,9.2,High school,64,false
+7,Noemi,Female,urban,295700,4.2,Graduate,72,true
+8,Pinchas,Male,urban,863305,3.4,High school,99,true
+9,Damiano,Male,rural,77638,4.7,Graduate,55,false
+10,Kimberlyn,Female,urban,826367,3.9,High school,35,true
+11,Sawyer,Male,rural,791172,7.0,Graduate,100,false
+12,Kipp,Female,urban,82335,0.3,High school,25,true
+13,Giovanni,Male,rural,756637,1.6,High school,57,true
+14,Ali,Female,urban,876729,9.8,illiterate,78,false
+15,Haydon,Genderqueer,rural,5700,5.5,illiterate,12,false
+16,Brad,Male,urban,72453,1.1,Graduate,48,false
+17,Artie,Male,rural,250401,8.5,Graduate,6,false
+18,Marylynne,Agender,urban,805382,8.0,Graduate,22,false
+19,Page,Male,rural,264248,3.1,illiterate,39,true
+20,Aldous,Male,urban,98906,0.7,High school,0,false
+21,Hunfredo,Male,urban,629184,7.9,High school,96,true
+22,Dayle,Female,rural,74552,1.9,illiterate,28,false
+23,Nancee,Female,urban,800142,8.8,High school,13,true
+24,Ceciley,Female,urban,196230,6.3,High school,95,false
+25,Sayres,Polygender,urban,305768,5.2,illiterate,65,true
+26,Mitzi,Female,urban,547682,4.6,illiterate,60,true
+27,Ellie,Female,rural,813990,3.9,Graduate,89,false
+28,Morgan,Male,rural,433437,0.1,illiterate,42,false
+29,Courtney,Male,rural,776120,6.2,illiterate,66,true
+30,Steffie,Female,urban,871103,0.1,High school,33,true
+31,Petronia,Female,urban,201693,1.6,High school,62,false
+32,Ranee,Female,urban,745155,2.2,High school,48,false
+33,Cheryl,Female,urban,927923,0.3,Graduate,19,true
+34,Darda,Bigender,urban,651629,5.3,illiterate,68,false
+35,Emanuel,Male,rural,469697,6.6,illiterate,5,true
+36,Marcelline,Female,urban,396627,8.3,Graduate,65,false
+37,Germayne,Male,urban,460927,3.4,Graduate,45,true
+38,Freda,Female,rural,896273,6.4,illiterate,92,true
+39,Benito,Male,rural,243703,8.1,High school,3,true
+40,Tore,Male,urban,499207,5.8,High school,78,true
+41,Wayne,Male,rural,529027,9.0,illiterate,64,false
+42,Gran,Genderfluid,urban,29142,5.7,illiterate,58,false
+43,Toddie,Male,rural,221870,5.2,illiterate,72,true
+44,Westbrooke,Male,rural,525629,3.2,Graduate,30,false
+45,Ardith,Female,rural,665474,2.8,Graduate,74,true
+46,Leilah,Female,rural,203528,6.8,illiterate,92,false
+47,Beatrice,Female,rural,83419,8.7,Graduate,63,true
+48,Josefina,Female,urban,738896,3.6,High school,74,true
+49,Reuven,Male,urban,823750,2.9,High school,21,true
+50,Burk,Male,rural,567986,0.8,High school,7,false
+51,Mommy,Female,urban,480924,6.2,illiterate,11,true
+52,Ophelie,Female,rural,61864,3.3,High school,73,false
+53,Natale,Male,urban,432130,7.7,illiterate,57,true
+54,Roxanna,Female,rural,20327,9.6,Graduate,23,false
+55,Osborn,Agender,rural,988162,8.4,High school,25,false
+56,Isabel,Female,rural,457779,2.3,High school,42,false
+57,Iggy,Male,urban,384751,2.2,illiterate,36,false
+58,Marji,Female,urban,343175,2.1,illiterate,65,false
+59,Morna,Genderqueer,urban,231484,4.6,High school,76,false
+60,Dannye,Female,urban,165186,4.8,High school,3,true
+61,Roxanna,Female,rural,482196,6.2,Graduate,64,true
+62,Bar,Male,urban,835450,4.7,Graduate,12,true
+63,Lefty,Male,urban,362396,8.9,illiterate,54,false
+64,Benjy,Male,urban,492011,1.0,Graduate,84,false
+65,Shelley,Female,rural,674012,2.6,High school,58,true
+66,De,Female,urban,522284,9.9,Graduate,25,true
+67,Isis,Female,rural,141953,7.4,illiterate,70,false
+68,Lyndel,Female,urban,762876,7.5,illiterate,52,false
+69,Cesare,Male,rural,939702,7.3,Graduate,6,true
+70,Valentino,Male,urban,127245,5.7,illiterate,15,true
+71,David,Genderfluid,rural,552428,9.9,High school,93,false
+72,Modesta,Female,rural,139839,6.8,Graduate,94,false
+73,Sukey,Female,urban,361562,2.2,High school,33,true
+74,Janice,Female,rural,216785,4.9,High school,98,true
+75,Cindra,Female,rural,370936,2.5,illiterate,82,true
+76,Lucille,Female,rural,117233,5.2,Graduate,87,true
+77,Wenda,Genderfluid,urban,783919,7.9,High school,42,true
+78,Orin,Male,urban,116029,5.1,Graduate,79,false
+79,Heda,Female,rural,351815,7.3,Graduate,13,true
+80,Ignatius,Male,rural,595702,5.8,illiterate,12,true
+81,Chad,Female,urban,956088,1.2,Graduate,94,true
+82,Kimberly,Female,urban,674713,1.3,High school,38,false
+83,D'arcy,Male,urban,126659,0.1,High school,26,true
+84,Benn,Male,urban,323715,2.2,illiterate,92,true
+85,Constanta,Female,urban,895313,8.7,High school,32,true
+86,Elie,Female,urban,587885,2.9,illiterate,95,true
+87,Karna,Female,urban,20289,0.8,illiterate,27,false
+88,Hadria,Female,urban,228511,1.9,Graduate,40,true
+89,Tim,Male,rural,135933,1.5,illiterate,27,false
+90,Ives,Male,urban,861640,5.5,illiterate,19,false
+91,Temp,Male,rural,118370,9.1,High school,97,false
+92,Faber,Polygender,urban,359815,1.7,High school,88,true
+93,Isac,Male,rural,444042,2.1,Graduate,81,false
+94,Barnebas,Male,rural,743595,1.1,Graduate,100,false
+95,Lorettalorna,Female,urban,440276,8.6,Graduate,85,true
+96,Devonna,Female,rural,615662,8.8,Graduate,46,true
+97,Cyndy,Female,urban,158569,1.9,illiterate,23,false
+98,Rand,Male,urban,717864,8.7,illiterate,65,false
+99,Dorene,Female,urban,722080,8.6,illiterate,36,false
+100,Lindsay,Polygender,rural,190751,0.7,High school,82,true
+101,Selma,Female,rural,408209,9.6,illiterate,22,true
+102,Christan,Female,rural,745585,3.4,Graduate,4,false
+103,Zorina,Female,urban,88195,5.3,illiterate,11,false
+104,Agustin,Male,rural,325927,0.9,Graduate,78,false
+105,Horatio,Non-binary,urban,508968,6.2,High school,84,false
+106,Beverley,Female,rural,3585,9.5,illiterate,14,false
+107,Robert,Male,rural,38059,5.4,Graduate,95,false
+108,Sydney,Female,rural,14298,8.5,High school,22,false
+109,Simeon,Male,rural,738755,0.7,Graduate,18,false
+110,Valerye,Agender,urban,138662,4.1,Graduate,38,false
+111,Leland,Genderfluid,rural,60700,7.6,High school,58,true
+112,Calli,Female,rural,323284,5.5,High school,0,true
+113,Vale,Male,rural,211716,2.8,High school,56,false
+114,Garwin,Male,urban,371944,9.2,Graduate,6,false
+115,Ashlie,Female,urban,365834,7.3,illiterate,56,true
+116,Salomo,Male,rural,299127,4.3,illiterate,100,true
+117,Mead,Female,rural,811451,4.4,Graduate,87,false
+118,Lydon,Male,urban,748579,0.8,Graduate,72,true
+119,Kial,Female,urban,576250,3.8,illiterate,26,true
+120,Megan,Genderfluid,rural,596233,4.2,illiterate,74,true
+121,Hildy,Female,rural,129928,6.1,illiterate,27,true
+122,Coriss,Female,urban,515462,0.4,High school,52,false
+123,Ryann,Female,urban,183723,7.8,illiterate,3,true
+124,Con,Female,rural,357136,4.0,illiterate,33,false
+125,Alejandra,Female,urban,212009,1.8,illiterate,100,true
+126,Wilbert,Male,urban,582250,6.7,Graduate,95,true
+127,Turner,Male,urban,20145,2.0,illiterate,23,true
+128,Xenia,Female,urban,462257,2.7,High school,86,true
+129,Alberta,Female,rural,799269,0.3,High school,2,false
+130,Tommi,Female,urban,987463,8.2,illiterate,15,false
+131,Feodor,Male,rural,939286,5.1,illiterate,88,true
+132,Zebulen,Male,urban,14927,5.6,Graduate,7,true
+133,Jodie,Male,rural,801205,2.8,High school,40,false
+134,Jamesy,Male,urban,63244,8.6,High school,95,false
+135,Kimmie,Female,urban,229262,5.6,Graduate,9,true
+136,Mario,Male,urban,355090,3.3,Graduate,53,true
+137,Berkie,Male,urban,328993,8.1,Graduate,80,false
+138,Betta,Female,urban,588599,7.5,High school,76,false
+139,Lyell,Male,urban,502482,7.3,High school,67,false
+140,Desmond,Non-binary,urban,120691,8.4,Graduate,64,false
+141,Peta,Female,urban,300315,0.4,High school,69,true
+142,Biddie,Female,urban,893915,2.3,High school,55,true
+143,Carina,Female,urban,724233,4.4,Graduate,3,true
+144,Scotty,Male,urban,701480,9.3,High school,23,false
+145,Colet,Male,urban,830906,6.7,High school,29,true
+146,May,Polygender,rural,3293,8.3,illiterate,59,true
+147,Fredericka,Female,urban,556479,0.4,High school,54,true
+148,Lay,Genderqueer,urban,124705,0.3,High school,85,true
+149,Jeffie,Male,urban,574324,9.5,illiterate,23,false
+150,Glori,Female,rural,265228,5.3,illiterate,93,true
+151,Quincey,Male,rural,529102,7.9,High school,61,false
+152,Quent,Male,urban,88843,5.0,Graduate,27,true
+153,Letizia,Agender,urban,643810,8.9,illiterate,60,true
+154,Carma,Female,rural,222435,6.6,High school,72,false
+155,Germayne,Male,rural,596741,0.6,Graduate,41,true
+156,Rick,Male,urban,395820,1.9,illiterate,69,true
+157,Kilian,Male,urban,729915,6.1,Graduate,16,true
+158,Linn,Male,urban,890220,5.1,Graduate,9,false
+159,Fraze,Male,urban,491414,7.5,illiterate,2,true
+160,Brandice,Female,rural,95672,4.8,High school,91,false
+161,Mommy,Female,urban,70123,1.1,illiterate,18,true
+162,Bordy,Male,rural,648260,3.7,Graduate,25,true
+163,Casper,Male,urban,10349,5.1,illiterate,30,true
+164,Dal,Male,rural,460665,6.3,High school,0,true
+165,Maye,Female,rural,257657,6.4,High school,21,true
+166,Eolande,Female,urban,195291,2.5,High school,59,false
+167,Kenn,Male,rural,895506,3.6,Graduate,44,true
+168,Elenore,Female,urban,806898,2.9,illiterate,51,false
+169,Christoper,Male,rural,147770,3.6,illiterate,71,false
+170,Nanete,Female,rural,828553,8.3,High school,71,true
+171,Sophi,Genderfluid,rural,585308,3.9,High school,61,true
+172,Zebadiah,Male,urban,490,0.5,Graduate,90,false
+173,Petrina,Female,rural,835200,5.3,illiterate,35,false
+174,Ellissa,Female,rural,608284,1.8,High school,68,true
+175,Carmelia,Female,urban,514870,6.7,illiterate,89,true
+176,Janette,Female,urban,489357,0.5,Graduate,32,true
+177,Kippie,Male,urban,71848,4.6,Graduate,20,false
+178,Bruis,Male,rural,686831,0.8,illiterate,60,false
+179,Caesar,Male,rural,79267,4.7,High school,75,false
+180,Sallyanne,Female,rural,954740,5.9,Graduate,50,true
+181,Karna,Female,rural,699356,4.2,Graduate,97,false
+182,Frazer,Male,rural,400683,5.0,Graduate,90,false
+183,Rosalinde,Female,rural,87175,2.1,illiterate,47,false
+184,Royall,Male,rural,887551,4.4,illiterate,59,true
+185,Rogers,Male,urban,80524,4.3,illiterate,58,false
+186,Lynette,Female,rural,653017,7.6,Graduate,47,false
+187,Frank,Male,urban,847793,2.3,illiterate,23,true
+188,Rozele,Female,rural,975953,3.6,Graduate,80,false
+189,Coralie,Female,rural,312644,4.1,illiterate,85,false
+190,Ethelind,Female,rural,951572,9.7,High school,38,false
+191,Goldy,Female,urban,148055,4.6,High school,51,true
+192,Jocko,Male,urban,302449,1.0,High school,31,true
+193,Jarrid,Male,rural,511946,4.6,High school,45,false
+194,Stan,Male,rural,995246,1.7,illiterate,18,false
+195,Alyse,Female,rural,923374,1.2,illiterate,13,false
+196,Constantine,Male,urban,221312,5.0,Graduate,75,true
+197,Kore,Bigender,urban,262170,5.9,Graduate,68,false
+198,Heida,Female,rural,450361,6.5,Graduate,34,true
+199,Keith,Male,rural,72381,0.1,illiterate,78,true
+200,Felicdad,Polygender,urban,303192,3.4,illiterate,66,true
+201,Timotheus,Non-binary,rural,767965,7.4,illiterate,68,true
+202,Antin,Male,rural,656163,8.9,Graduate,69,false
+203,Sorcha,Female,urban,571876,3.9,Graduate,88,false
+204,Stephana,Bigender,rural,728311,5.3,illiterate,37,true
+205,Deb,Female,urban,565444,3.6,illiterate,79,true
+206,Alfy,Female,urban,513304,2.6,Graduate,45,true
+207,Jeni,Female,urban,701168,7.3,High school,51,true
+208,Corney,Bigender,rural,524776,4.3,illiterate,19,true
+209,Jehanna,Genderfluid,rural,665984,0.2,High school,23,false
+210,Frasier,Male,rural,836356,8.2,Graduate,75,true
+211,Constantine,Female,urban,978052,4.1,illiterate,83,false
+212,Artemus,Male,urban,253960,9.9,Graduate,39,false
+213,Olenka,Female,urban,83300,0.7,High school,84,false
+214,Isabel,Female,urban,892555,7.4,illiterate,34,false
+215,Silva,Female,rural,301351,7.5,illiterate,80,true
+216,Coralyn,Female,rural,545125,7.4,High school,57,true
+217,Torey,Male,rural,464372,7.3,Graduate,44,false
+218,Dal,Male,rural,608075,9.3,High school,5,false
+219,Eliot,Male,rural,531390,6.1,illiterate,3,false
+220,Rafaellle,Male,rural,555185,3.4,Graduate,22,true
+221,Alric,Male,rural,822040,8.2,High school,37,false
+222,Gerty,Female,rural,649458,9.0,Graduate,36,true
+223,Ruthy,Female,rural,670311,5.0,High school,71,false
+224,Orsola,Female,rural,619405,1.4,High school,69,true
+225,Rosalinda,Female,rural,244130,6.1,Graduate,35,true
+226,Amandi,Female,urban,102328,7.5,High school,83,false
+227,Amandi,Female,urban,847233,3.5,High school,50,true
+228,Cristian,Agender,rural,90242,2.9,Graduate,95,false
+229,Sosanna,Female,rural,352087,5.1,illiterate,17,true
+230,Richie,Male,rural,533324,2.2,Graduate,76,true
+231,Spenser,Male,rural,551434,8.7,Graduate,26,true
+232,Case,Male,rural,332215,1.3,High school,39,false
+233,Ardis,Female,urban,833501,1.6,illiterate,75,true
+234,Celine,Female,rural,127720,3.0,illiterate,56,true
+235,Nikki,Female,urban,490849,3.7,Graduate,57,true
+236,Jasmine,Female,rural,853659,3.1,Graduate,84,false
+237,Tammy,Male,rural,405265,7.5,illiterate,11,true
+238,Charline,Female,rural,103896,4.0,High school,42,false
+239,Adolphe,Male,rural,916723,3.4,illiterate,10,true
+240,Rolph,Male,urban,808015,3.0,Graduate,50,false
+241,Zedekiah,Male,urban,574708,5.1,High school,83,true
+242,Burch,Male,rural,136587,1.1,illiterate,94,true
+243,Urbain,Male,urban,450236,3.8,illiterate,90,false
+244,Beatrix,Female,urban,615584,3.9,Graduate,91,true
+245,Alfy,Genderfluid,rural,822263,8.0,Graduate,98,false
+246,Othello,Male,rural,62184,6.5,Graduate,41,true
+247,Odell,Male,rural,890429,0.5,Graduate,74,false
+248,Boonie,Male,urban,511722,3.0,Graduate,33,true
+249,Marge,Female,rural,719134,4.5,High school,90,false
+250,Aundrea,Female,rural,305492,1.4,High school,19,false
+251,Lezley,Male,rural,779008,8.8,High school,40,true
+252,Lucia,Female,rural,108671,6.4,High school,91,false
+253,Jere,Female,urban,780271,9.2,High school,55,false
+254,Matilda,Female,rural,53056,4.3,Graduate,59,false
+255,Galvin,Male,rural,99753,1.2,illiterate,89,false
+256,Marcellus,Male,rural,719493,3.1,illiterate,27,false
+257,Janeva,Female,urban,980357,9.9,illiterate,78,false
+258,Elysee,Female,rural,351001,6.0,illiterate,39,true
+259,Lexine,Female,urban,754573,5.1,High school,45,false
+260,Weider,Male,rural,753236,0.1,illiterate,31,false
+261,Lolita,Agender,urban,582989,2.4,Graduate,89,true
+262,Ilysa,Female,urban,325023,1.8,High school,84,false
+263,Giordano,Male,rural,702439,6.4,Graduate,1,true
+264,Mohandis,Male,urban,799779,3.6,Graduate,77,false
+265,Kerrie,Female,rural,539027,2.2,Graduate,36,true
+266,Robinia,Female,rural,803513,7.1,Graduate,97,false
+267,Elmo,Male,urban,967872,3.2,High school,9,false
+268,Annadiana,Female,rural,32663,3.8,Graduate,22,false
+269,Del,Male,urban,702263,9.9,Graduate,51,false
+270,Gayle,Male,rural,381946,3.1,illiterate,100,false
+271,Bessie,Female,urban,132895,2.6,illiterate,73,true
+272,Phillis,Female,rural,735976,0.7,illiterate,95,true
+273,Jeffry,Male,urban,420009,2.4,Graduate,8,true
+274,Aurelie,Female,urban,223668,1.7,illiterate,93,false
+275,Gabi,Male,rural,452750,2.7,Graduate,36,false
+276,Jacklyn,Female,rural,643289,1.7,Graduate,93,true
+277,Peirce,Male,urban,441623,2.7,High school,73,true
+278,Millicent,Agender,rural,594858,2.4,High school,22,true
+279,Hestia,Female,rural,806529,1.2,Graduate,26,false
+280,Cortney,Female,rural,114753,7.7,illiterate,50,true
+281,Hunter,Male,rural,720333,5.2,High school,91,false
+282,Dorella,Female,urban,381230,7.7,High school,66,true
+283,Isabel,Female,rural,211869,7.1,Graduate,66,true
+284,Loree,Female,urban,890683,8.8,Graduate,69,true
+285,Aharon,Male,rural,766225,7.3,illiterate,78,false
+286,Coretta,Female,urban,585581,7.7,illiterate,15,false
+287,Aprilette,Female,rural,555328,6.3,High school,50,true
+288,Sapphira,Female,urban,708898,3.7,illiterate,59,true
+289,Arch,Genderqueer,rural,266940,9.1,High school,32,false
+290,Vick,Male,urban,271861,4.6,High school,37,false
+291,Dulcie,Female,urban,152763,6.4,illiterate,34,true
+292,Sadye,Bigender,urban,343091,0.7,High school,88,false
+293,Austine,Genderfluid,urban,608167,3.7,High school,98,false
+294,Travis,Male,rural,524155,6.2,High school,27,false
+295,Jamey,Male,rural,720470,6.8,Graduate,31,true
+296,Hussein,Male,rural,910251,6.3,Graduate,54,true
+297,Yoko,Female,rural,238752,6.7,Graduate,26,true
+298,Leonidas,Male,urban,120012,2.0,High school,51,true
+299,Maureen,Female,rural,174632,0.2,High school,94,true
+300,Tallia,Female,rural,323784,2.9,Graduate,56,false
+301,Virge,Male,urban,458751,7.1,Graduate,98,true
+302,Thedric,Male,urban,599985,2.4,Graduate,74,true
+303,Xenos,Male,urban,966206,2.6,Graduate,45,false
+304,Kristi,Female,urban,102041,0.5,illiterate,81,false
+305,Alford,Male,urban,797696,7.0,illiterate,40,false
+306,Jazmin,Female,urban,858905,6.8,Graduate,39,true
+307,Gherardo,Male,urban,196162,0.9,Graduate,57,true
+308,Baryram,Male,rural,927892,8.0,illiterate,14,true
+309,Janeva,Female,urban,533008,2.8,High school,66,false
+310,Kim,Male,urban,833233,7.7,High school,3,true
+311,Meredeth,Male,rural,893701,0.3,High school,69,false
+312,Chaunce,Non-binary,urban,38684,3.0,illiterate,15,true
+313,Celinka,Female,urban,544987,6.1,illiterate,77,true
+314,Fitz,Male,rural,775252,4.5,illiterate,52,false
+315,Morton,Male,rural,914585,8.3,Graduate,1,false
+316,Rhetta,Female,rural,180363,10.0,Graduate,53,true
+317,Nels,Male,rural,143448,4.9,High school,41,true
+318,Kennie,Male,urban,667562,9.6,Graduate,12,true
+319,Rosemaria,Non-binary,urban,883778,0.9,Graduate,11,true
+320,Shelba,Female,rural,434130,7.1,High school,62,false
+321,Cris,Male,rural,571627,4.4,illiterate,6,false
+322,Gretta,Female,urban,117089,9.1,Graduate,49,true
+323,Judd,Male,rural,549819,9.4,Graduate,73,false
+324,Ignazio,Male,urban,792267,6.7,Graduate,11,true
+325,Timmie,Female,rural,912056,1.3,High school,56,true
+326,Danice,Female,rural,798617,4.5,High school,36,true
+327,Karisa,Female,rural,840337,9.9,illiterate,75,true
+328,Hedvig,Female,urban,565328,6.1,illiterate,33,true
+329,Matilde,Female,rural,296206,3.9,High school,60,false
+330,Cathi,Female,urban,599803,3.1,High school,23,true
+331,Far,Male,rural,384610,7.1,Graduate,0,true
+332,Lannie,Genderfluid,rural,169757,5.3,illiterate,63,false
+333,Judye,Female,rural,12130,7.2,Graduate,7,false
+334,Jasmina,Female,rural,96391,2.1,Graduate,18,false
+335,Deva,Female,rural,792694,4.2,illiterate,93,true
+336,Morena,Female,rural,143485,4.0,High school,45,false
+337,Yanaton,Male,rural,657126,2.7,High school,58,true
+338,Estevan,Male,urban,768167,3.9,High school,4,true
+339,Lemuel,Male,urban,375512,8.5,Graduate,12,true
+340,Dudley,Agender,urban,925802,0.1,Graduate,42,false
+341,Nydia,Female,rural,963716,1.7,illiterate,67,true
+342,Othello,Male,urban,630395,9.3,Graduate,42,true
+343,Ellie,Female,rural,803330,6.8,High school,30,false
+344,Selia,Female,urban,349574,0.2,illiterate,98,false
+345,Lark,Female,urban,34447,1.4,illiterate,5,false
+346,Graeme,Genderqueer,rural,962616,1.6,illiterate,72,false
+347,Bil,Male,urban,379420,6.9,High school,41,true
+348,Fitz,Male,urban,796824,7.5,illiterate,11,true
+349,Arley,Male,rural,61067,4.8,illiterate,86,false
+350,Dreddy,Female,urban,677099,8.0,High school,50,false
+351,Dareen,Female,urban,549326,0.9,illiterate,48,true
+352,Alexia,Female,urban,188307,8.1,High school,98,false
+353,Aili,Genderfluid,urban,737038,3.1,High school,26,true
+354,Lynde,Female,rural,648791,6.9,illiterate,49,false
+355,Miltie,Male,rural,142296,1.2,Graduate,15,false
+356,Alverta,Agender,urban,273535,0.8,High school,41,false
+357,Carissa,Female,rural,642096,8.8,High school,7,true
+358,Renelle,Female,rural,124780,4.7,High school,41,true
+359,Jacklin,Female,urban,707335,9.3,Graduate,47,true
+360,Roberto,Male,rural,820075,1.0,High school,41,true
+361,Jobina,Female,rural,421807,9.4,High school,84,false
+362,Dean,Non-binary,urban,177900,0.5,Graduate,9,true
+363,Keefer,Non-binary,urban,511355,3.7,High school,5,true
+364,Nathaniel,Non-binary,rural,455063,6.7,High school,25,true
+365,Humbert,Male,rural,154517,4.1,Graduate,95,true
+366,Sherwin,Male,urban,280445,2.6,Graduate,99,false
+367,Edan,Male,rural,767088,3.7,High school,42,false
+368,Kaitlynn,Female,rural,949715,8.4,Graduate,39,false
+369,Anni,Female,urban,341570,0.9,illiterate,91,true
+370,Octavius,Male,urban,773834,5.0,illiterate,24,false
+371,Collette,Female,urban,179324,6.5,High school,64,true
+372,Lana,Female,urban,271848,5.6,Graduate,75,false
+373,Chad,Female,urban,972559,0.1,High school,45,true
+374,Gabe,Male,rural,775174,8.4,illiterate,57,true
+375,Ruperta,Female,rural,558087,2.7,Graduate,22,false
+376,Hilton,Male,urban,490365,5.9,High school,63,false
+377,Alain,Male,rural,923950,2.6,High school,13,false
+378,Chen,Male,urban,117120,6.3,Graduate,44,false
+379,Lexy,Female,rural,451410,5.0,Graduate,73,true
+380,Neile,Female,urban,460275,3.9,Graduate,39,false
+381,Gabi,Male,urban,910163,3.1,illiterate,18,true
+382,Inness,Male,rural,76762,4.4,High school,65,false
+383,Page,Polygender,urban,609658,7.2,Graduate,81,false
+384,Hillery,Male,rural,702717,2.9,illiterate,35,true
+385,Melamie,Female,rural,210152,1.1,High school,34,true
+386,Berkie,Male,urban,455166,9.1,illiterate,50,false
+387,Elwira,Female,rural,177604,6.9,High school,85,false
+388,Gaven,Male,urban,212702,0.0,Graduate,90,true
+389,Donnajean,Female,urban,563006,7.5,Graduate,23,true
+390,Anselma,Female,rural,854687,0.1,illiterate,11,false
+391,Wells,Male,rural,865627,4.0,Graduate,77,false
+392,Thomas,Male,urban,138954,9.4,High school,93,false
+393,Frazer,Male,rural,183065,6.7,Graduate,51,true
+394,Rana,Polygender,urban,443391,7.2,High school,94,true
+395,Daphna,Female,rural,450729,0.8,Graduate,89,true
+396,Abie,Male,rural,930049,7.1,illiterate,3,false
+397,Emelita,Female,rural,967982,1.0,Graduate,78,false
+398,Myra,Female,rural,883475,3.0,High school,90,true
+399,Colene,Female,urban,848092,5.5,High school,42,false
+400,Yoko,Female,urban,388097,6.7,High school,48,false
+401,Wilfred,Male,urban,20862,10.0,Graduate,79,false
+402,Gayelord,Male,rural,684873,3.7,illiterate,42,false
+403,Maye,Genderqueer,urban,409814,8.7,High school,12,false
+404,Nicolina,Female,urban,539514,5.4,High school,19,false
+405,Chen,Male,rural,57330,4.1,Graduate,32,false
+406,Ambrosi,Male,urban,174841,1.6,illiterate,54,false
+407,Brander,Non-binary,urban,972324,5.7,High school,73,false
+408,Mickey,Male,urban,97244,0.7,illiterate,87,true
+409,Sonya,Female,rural,870489,1.7,Graduate,46,false
+410,Philbert,Male,rural,596855,8.7,High school,51,false
+411,Spike,Non-binary,urban,323432,8.4,High school,89,false
+412,Olly,Male,rural,151559,7.6,Graduate,72,false
+413,Giff,Male,rural,997988,4.4,illiterate,84,false
+414,Benni,Female,urban,131150,4.2,Graduate,5,false
+415,Marielle,Female,urban,595891,8.7,Graduate,26,false
+416,Guthry,Male,rural,582242,8.5,illiterate,44,false
+417,Lanae,Female,urban,163125,3.4,illiterate,59,false
+418,Vernen,Male,rural,384869,3.6,Graduate,19,false
+419,Grover,Male,rural,850607,2.0,illiterate,65,false
+420,Amory,Male,rural,995989,1.1,High school,74,false
+421,Carree,Female,urban,253060,0.6,High school,83,true
+422,Hamnet,Non-binary,rural,419540,2.4,Graduate,89,true
+423,Cheslie,Female,rural,407760,7.1,Graduate,50,true
+424,Madison,Male,urban,877578,5.5,High school,16,true
+425,Rayshell,Female,rural,646531,1.9,illiterate,95,false
+426,Worden,Male,rural,306938,1.4,High school,15,true
+427,Rancell,Polygender,urban,350325,9.0,Graduate,92,false
+428,Mellisa,Non-binary,urban,942489,5.3,High school,5,true
+429,Barnard,Non-binary,rural,145275,7.4,illiterate,15,false
+430,Jehu,Male,urban,978003,6.9,illiterate,71,false
+431,Elisabeth,Female,rural,564312,8.4,High school,77,false
+432,Lorin,Male,urban,940066,3.3,illiterate,98,false
+433,Mag,Female,rural,917553,5.5,Graduate,3,true
+434,Foss,Male,rural,548737,3.6,Graduate,38,false
+435,Wolfgang,Male,rural,748882,1.1,High school,37,true
+436,Goddard,Male,urban,49668,7.6,Graduate,23,false
+437,Christa,Female,urban,381664,4.8,High school,39,false
+438,Yoshiko,Female,urban,681466,3.0,High school,4,false
+439,Jo,Female,urban,339763,5.2,High school,22,false
+440,Agnella,Female,rural,699264,1.2,High school,85,true
+441,Trev,Male,rural,455137,1.7,Graduate,33,false
+442,Eleonora,Female,urban,889055,2.3,illiterate,10,true
+443,Marlow,Male,rural,238834,8.2,High school,34,true
+444,Normie,Male,urban,325000,4.7,Graduate,34,false
+445,Andres,Male,urban,716418,7.8,High school,9,true
+446,Merrielle,Female,urban,600525,7.6,illiterate,43,true
+447,Frederik,Male,rural,525459,5.9,illiterate,51,true
+448,Brennen,Male,urban,300686,6.1,High school,88,true
+449,Saudra,Female,rural,609657,5.3,Graduate,26,true
+450,Gratia,Female,urban,397333,4.4,illiterate,74,true
+451,Hershel,Male,urban,844699,0.9,High school,76,true
+452,Thane,Agender,rural,331387,4.7,Graduate,61,false
+453,Ethelind,Polygender,rural,895482,2.1,High school,92,false
+454,Brandie,Female,urban,863263,6.5,illiterate,16,false
+455,Ozzie,Male,urban,120445,7.8,illiterate,81,false
+456,Byrle,Male,rural,168261,0.4,Graduate,73,true
+457,Conan,Male,urban,605876,4.1,illiterate,56,true
+458,Mallory,Male,rural,737071,0.1,Graduate,19,false
+459,Evyn,Male,rural,76958,8.5,illiterate,47,false
+460,Melosa,Female,urban,868093,4.9,High school,69,false
+461,Candice,Female,urban,589522,3.5,High school,36,true
+462,Tarah,Female,urban,273179,2.0,High school,75,true
+463,Laurent,Male,rural,950701,3.0,Graduate,72,false
+464,Aron,Male,urban,620585,6.6,High school,77,false
+465,Olivette,Female,urban,61222,4.6,High school,30,true
+466,Orren,Male,urban,653680,1.9,High school,77,true
+467,Catherine,Female,rural,139714,0.6,High school,35,true
+468,Brannon,Male,rural,34802,2.8,illiterate,17,false
+469,Leeann,Female,urban,507239,9.5,illiterate,56,true
+470,Simmonds,Male,urban,66313,5.4,High school,88,true
+471,Wolfy,Genderqueer,urban,118492,0.8,illiterate,40,false
+472,Addy,Female,rural,395544,9.2,High school,32,false
+473,Roma,Male,urban,333905,2.0,High school,22,false
+474,Rance,Male,rural,805754,7.1,illiterate,99,false
+475,Bertram,Male,urban,965583,9.7,High school,90,false
+476,Lexi,Female,rural,509140,7.6,illiterate,82,false
+477,Hussein,Male,rural,711390,6.4,illiterate,87,false
+478,Averell,Male,rural,56739,8.9,illiterate,66,false
+479,Millie,Female,rural,359226,7.1,High school,45,true
+480,Chick,Male,urban,546110,0.8,Graduate,16,false
+481,Juieta,Female,urban,499179,6.8,illiterate,47,false
+482,Mercedes,Female,urban,997944,6.0,illiterate,34,true
+483,Mathias,Male,rural,85410,3.8,illiterate,47,false
+484,Eric,Male,urban,624808,3.3,High school,62,false
+485,Dyann,Polygender,rural,734692,2.7,Graduate,2,true
+486,Travis,Male,urban,449635,0.7,Graduate,49,true
+487,Marketa,Female,urban,270483,7.3,Graduate,83,true
+488,Clemens,Male,rural,825718,9.0,illiterate,26,false
+489,Sawyere,Male,urban,818018,3.5,illiterate,53,true
+490,Lila,Female,urban,495087,6.4,High school,43,false
+491,Zane,Male,rural,590597,6.1,High school,33,true
+492,Phaedra,Female,rural,222145,6.8,illiterate,93,false
+493,Westleigh,Male,urban,148763,4.0,High school,25,false
+494,Caldwell,Male,urban,470681,1.5,illiterate,16,true
+495,Nicolette,Female,rural,460138,1.9,High school,74,true
+496,Sollie,Male,rural,997338,5.3,Graduate,62,true
+497,Niles,Non-binary,rural,510206,2.0,High school,78,false
+498,Alphonse,Male,urban,121203,0.7,illiterate,62,true
+499,Hilliard,Male,rural,23553,1.1,illiterate,77,true
+500,Homerus,Male,rural,437285,10.0,High school,50,false
+501,Felipe,Male,rural,674691,5.8,High school,75,false
+502,Deva,Female,rural,176088,2.2,illiterate,16,false
+503,Beau,Male,rural,866330,3.3,Graduate,90,true
+504,Rahal,Female,rural,370114,5.9,High school,91,true
+505,Gunter,Male,rural,199636,1.3,Graduate,26,true
+506,Darcy,Agender,rural,865523,7.0,High school,45,true
+507,Teresita,Genderfluid,rural,964299,7.0,Graduate,74,true
+508,Mandy,Female,rural,139353,2.5,High school,18,false
+509,Mabelle,Female,rural,56502,8.6,Graduate,30,false
+510,Marley,Female,urban,950072,10.0,Graduate,83,true
+511,Connie,Female,urban,482977,0.9,High school,64,true
+512,Bernardina,Female,rural,926266,0.8,illiterate,0,false
+513,Charlotta,Female,rural,680290,4.4,High school,59,false
+514,Caterina,Female,urban,426567,5.4,Graduate,1,true
+515,Donni,Female,urban,860479,8.1,illiterate,78,false
+516,Elizabeth,Female,rural,213,6.3,High school,42,false
+517,Jermain,Polygender,urban,56324,2.2,High school,97,false
+518,Gilberta,Female,rural,620085,4.6,Graduate,32,true
+519,Mark,Genderfluid,rural,963154,6.3,Graduate,5,true
+520,Wendall,Male,rural,133577,9.0,Graduate,24,false
+521,Gloriana,Female,urban,684561,4.8,High school,56,true
+522,Vernen,Male,rural,666474,7.2,Graduate,67,true
+523,Cami,Female,urban,370584,1.3,illiterate,1,true
+524,Sandro,Male,urban,826988,9.2,illiterate,94,false
+525,Marna,Female,urban,877117,7.6,illiterate,88,false
+526,Mariel,Female,rural,535843,0.1,illiterate,82,false
+527,Maribeth,Female,urban,969903,4.4,Graduate,80,false
+528,Tasha,Female,rural,689035,2.1,Graduate,11,true
+529,Tremaine,Male,urban,208472,8.6,illiterate,88,false
+530,Waverly,Male,rural,373808,1.8,illiterate,52,true
+531,Clarabelle,Female,urban,51696,9.1,High school,9,true
+532,Sutton,Male,urban,974104,9.8,Graduate,28,true
+533,Garwood,Male,rural,337715,9.9,High school,75,true
+534,Electra,Female,rural,571272,1.7,illiterate,62,false
+535,Edie,Female,urban,222695,3.2,illiterate,85,true
+536,Correna,Female,urban,572892,1.7,illiterate,16,false
+537,Zoe,Female,rural,97171,3.3,High school,60,false
+538,Olenka,Genderqueer,urban,714759,1.0,Graduate,25,false
+539,Gisela,Female,rural,664718,0.2,Graduate,85,false
+540,Gard,Male,urban,910327,7.3,High school,35,false
+541,Grier,Female,urban,176857,5.3,High school,37,false
+542,Susie,Female,urban,464860,4.1,High school,19,false
+543,Theresina,Polygender,rural,440167,2.7,illiterate,12,false
+544,Albina,Female,rural,539098,3.3,High school,92,true
+545,Antoinette,Female,urban,128139,1.0,High school,26,false
+546,Joya,Female,urban,337122,2.4,Graduate,62,true
+547,Case,Male,urban,190335,3.5,illiterate,92,false
+548,Valaree,Female,urban,561710,4.9,illiterate,28,false
+549,Tonye,Female,rural,862343,6.0,illiterate,54,false
+550,Esmeralda,Female,rural,949848,6.9,High school,30,true
+551,Rustin,Genderqueer,rural,268030,7.7,illiterate,55,false
+552,Hugibert,Male,urban,207363,7.7,Graduate,31,false
+553,Torrey,Male,rural,386728,3.6,Graduate,46,true
+554,Sidnee,Male,rural,784246,1.7,illiterate,5,true
+555,Elset,Female,urban,289085,7.8,High school,60,true
+556,Easter,Female,urban,254527,8.5,illiterate,72,false
+557,Dael,Male,urban,634846,10.0,illiterate,85,true
+558,Mathilde,Female,urban,592310,8.1,Graduate,9,false
+559,Rodney,Male,rural,33971,8.0,High school,61,true
+560,Jenny,Female,rural,418597,6.8,Graduate,3,false
+561,Nathaniel,Male,rural,804078,0.8,illiterate,23,true
+562,Alex,Female,urban,221159,1.8,Graduate,58,false
+563,Tedra,Female,urban,695397,9.7,illiterate,61,true
+564,Marsh,Male,rural,624787,9.9,Graduate,60,false
+565,Chase,Polygender,rural,711593,7.2,Graduate,47,true
+566,Shellysheldon,Male,rural,21089,3.4,illiterate,74,true
+567,Shawn,Female,rural,797198,8.2,illiterate,33,true
+568,Janifer,Female,urban,408330,5.8,High school,59,false
+569,Walther,Male,urban,36503,1.9,Graduate,59,true
+570,Roby,Female,rural,480605,3.5,High school,50,false
+571,Petronia,Female,rural,132267,3.0,Graduate,91,true
+572,Travers,Non-binary,rural,351145,2.8,Graduate,33,true
+573,Dagmar,Female,urban,271267,2.5,High school,88,true
+574,Jenn,Female,rural,183384,1.8,illiterate,31,true
+575,Alphonso,Male,urban,174295,6.9,High school,13,true
+576,Alexina,Female,urban,75618,1.6,Graduate,72,true
+577,Niall,Male,urban,363419,8.2,Graduate,22,true
+578,Chaddy,Male,rural,849913,7.6,High school,58,true
+579,Katha,Female,urban,259484,7.1,Graduate,44,false
+580,Townie,Male,rural,784185,8.8,Graduate,33,true
+581,Tomaso,Male,urban,782353,8.4,Graduate,23,false
+582,Nollie,Female,urban,218317,9.6,Graduate,27,true
+583,Marco,Male,rural,892207,3.9,Graduate,14,true
+584,Mariann,Genderqueer,urban,838129,4.5,Graduate,14,true
+585,Sloane,Male,urban,774411,1.0,illiterate,54,false
+586,Cassius,Male,urban,987002,1.9,illiterate,91,true
+587,Bennie,Genderqueer,urban,840350,6.7,High school,7,false
+588,Haley,Male,rural,378723,4.8,illiterate,37,false
+589,Munroe,Male,urban,158804,2.6,High school,34,true
+590,Nertie,Female,rural,928727,8.9,illiterate,69,false
+591,Armin,Male,rural,465674,7.1,Graduate,27,false
+592,Sharlene,Female,urban,643933,7.6,High school,100,false
+593,Gabey,Female,urban,181509,8.6,Graduate,57,false
+594,Rudolph,Male,rural,677961,0.9,Graduate,81,true
+595,Lottie,Bigender,rural,989233,2.0,Graduate,98,true
+596,Nikolas,Male,rural,9851,2.1,Graduate,50,true
+597,Camella,Female,urban,94778,0.9,Graduate,83,true
+598,Aubert,Male,urban,396341,5.7,Graduate,55,false
+599,Stanislaw,Male,urban,464550,9.2,High school,77,false
+600,Edithe,Female,urban,787105,8.1,illiterate,21,true
+601,Pedro,Male,urban,506347,0.1,illiterate,66,true
+602,Gus,Female,urban,774706,3.9,High school,59,true
+603,Lu,Female,urban,182981,9.4,Graduate,62,true
+604,Grayce,Female,rural,139792,5.5,illiterate,39,false
+605,Cristin,Female,rural,181046,2.7,High school,16,false
+606,Adaline,Female,urban,567878,2.4,Graduate,80,false
+607,Marten,Male,urban,796912,7.7,High school,56,true
+608,Vannie,Female,urban,732852,8.7,High school,95,true
+609,Ettore,Male,urban,583746,5.2,Graduate,13,false
+610,Yancy,Male,rural,626848,1.0,Graduate,73,false
+611,Cloris,Female,rural,972945,3.0,illiterate,68,false
+612,Jemmy,Female,urban,122330,6.4,illiterate,70,true
+613,Gaby,Female,rural,425799,2.5,High school,68,false
+614,Anne-marie,Female,rural,6244,1.4,illiterate,45,true
+615,Damian,Male,rural,699921,5.3,Graduate,87,false
+616,Concettina,Female,rural,390835,2.0,High school,66,false
+617,Ellyn,Female,rural,17841,0.0,High school,72,true
+618,Raffaello,Male,urban,176569,1.3,illiterate,96,true
+619,Iolanthe,Polygender,rural,247042,7.2,Graduate,60,true
+620,Shaughn,Male,urban,106471,4.5,Graduate,96,true
+621,Trish,Non-binary,urban,92879,4.9,illiterate,64,true
+622,Silas,Male,rural,303118,5.5,High school,77,false
+623,Olivia,Female,rural,952626,8.9,illiterate,66,true
+624,Arlan,Male,urban,765889,7.8,High school,32,false
+625,Baldwin,Male,rural,729267,4.0,illiterate,73,true
+626,Hernando,Male,urban,895219,6.0,High school,76,true
+627,Osmund,Male,rural,585322,4.8,Graduate,42,false
+628,Felicio,Male,rural,869669,5.3,Graduate,45,false
+629,Kliment,Male,urban,140186,4.6,illiterate,20,false
+630,Gawain,Male,rural,508913,1.3,illiterate,82,true
+631,Gladys,Female,rural,94936,8.8,High school,33,true
+632,Filip,Male,urban,451760,4.6,Graduate,0,false
+633,Bernard,Male,rural,128265,5.3,High school,76,false
+634,Cassy,Female,urban,860743,1.2,illiterate,29,true
+635,Trever,Male,rural,23534,6.1,illiterate,39,true
+636,Burtie,Male,rural,644055,2.2,High school,42,true
+637,Ali,Male,rural,341397,7.4,High school,22,false
+638,Imojean,Genderqueer,urban,536394,8.2,Graduate,0,false
+639,Ella,Female,rural,874233,5.2,High school,40,false
+640,Ediva,Female,rural,867417,4.1,High school,58,false
+641,Yoshiko,Female,rural,945982,3.8,illiterate,78,true
+642,Germaine,Polygender,rural,99296,4.0,Graduate,54,false
+643,Winfield,Male,rural,996494,4.6,High school,36,false
+644,Brooke,Male,urban,770755,2.9,High school,81,false
+645,Minette,Female,rural,886997,0.9,High school,49,true
+646,Yancy,Male,rural,10173,3.0,High school,94,true
+647,Fred,Male,urban,143568,6.5,Graduate,99,false
+648,Inglebert,Genderfluid,rural,499092,4.0,Graduate,50,false
+649,Patti,Female,rural,601968,3.9,High school,48,true
+650,Maggie,Female,rural,486817,3.3,High school,11,true
+651,Orbadiah,Male,urban,352908,6.6,High school,93,true
+652,Brianna,Female,rural,619409,6.2,illiterate,68,false
+653,Richmond,Male,urban,181228,2.6,illiterate,80,false
+654,Mae,Bigender,rural,738871,8.5,Graduate,15,false
+655,Matilda,Female,urban,320931,0.1,Graduate,91,true
+656,Portie,Male,rural,487862,9.5,High school,11,false
+657,Manfred,Male,urban,34863,6.1,illiterate,7,false
+658,Bronnie,Male,urban,374566,2.8,illiterate,61,true
+659,Florenza,Bigender,rural,804118,5.5,Graduate,35,true
+660,Larry,Male,urban,169340,5.9,Graduate,61,false
+661,Ignacio,Male,urban,329085,0.5,illiterate,40,false
+662,Katrinka,Female,urban,388689,1.2,High school,63,false
+663,Cobbie,Male,urban,190966,3.7,High school,0,true
+664,Staffard,Male,urban,678628,6.6,Graduate,16,true
+665,Sunny,Male,rural,391224,4.3,Graduate,20,false
+666,Jannel,Female,urban,293170,3.7,illiterate,73,true
+667,Roseline,Female,urban,642945,1.9,Graduate,11,false
+668,Becka,Female,urban,503621,6.3,illiterate,35,true
+669,Modestia,Female,urban,356720,4.7,Graduate,37,true
+670,Morie,Male,urban,472812,9.3,High school,69,true
+671,Keen,Male,urban,267608,4.0,Graduate,77,true
+672,Hurlee,Genderqueer,urban,336972,6.3,illiterate,88,true
+673,Ganny,Male,rural,692622,7.1,illiterate,62,true
+674,Paton,Male,rural,20673,0.0,High school,7,false
+675,Svend,Male,rural,699578,2.2,illiterate,66,true
+676,Evin,Male,rural,381177,6.3,High school,73,true
+677,Zachariah,Polygender,rural,33638,0.5,illiterate,12,false
+678,Dael,Male,rural,965325,8.9,illiterate,98,true
+679,Aggy,Female,rural,740500,3.0,High school,28,true
+680,Jamison,Male,urban,386640,9.7,illiterate,35,true
+681,Amandie,Female,urban,531200,4.2,Graduate,42,false
+682,Kinny,Male,urban,360072,6.4,Graduate,34,false
+683,Tabbie,Male,rural,323887,3.3,Graduate,46,false
+684,Maury,Male,rural,849,3.3,illiterate,69,true
+685,Benedict,Bigender,urban,223172,7.2,illiterate,86,true
+686,Michaeline,Female,rural,54565,0.7,illiterate,34,true
+687,Carmella,Female,urban,458376,5.8,High school,3,true
+688,Giraud,Male,urban,978723,5.6,Graduate,2,false
+689,Felipa,Female,urban,996057,5.5,High school,65,true
+690,Willetta,Female,rural,363317,5.4,illiterate,64,true
+691,Shermie,Bigender,rural,431837,9.8,Graduate,79,true
+692,Berti,Male,urban,762828,9.9,Graduate,30,true
+693,Kaye,Female,urban,172748,4.8,High school,47,false
+694,Lonny,Male,rural,917808,3.3,illiterate,100,true
+695,Brendin,Male,urban,716868,5.6,Graduate,82,true
+696,Beauregard,Male,urban,840968,6.0,illiterate,90,true
+697,Shepherd,Male,urban,431337,8.9,High school,8,false
+698,Judie,Female,rural,361248,9.9,illiterate,50,true
+699,Sheba,Female,urban,186652,7.8,Graduate,26,false
+700,Wallis,Female,urban,325137,6.0,illiterate,76,true
+701,Karee,Female,urban,4503,5.8,Graduate,53,true
+702,Winnah,Female,urban,875062,5.3,Graduate,13,true
+703,Mordecai,Male,urban,914777,4.7,Graduate,11,true
+704,Rica,Female,urban,875235,8.3,High school,98,false
+705,Cosmo,Male,rural,669055,5.7,illiterate,65,false
+706,Olav,Male,urban,454719,0.7,Graduate,74,false
+707,Kari,Female,rural,49481,5.7,illiterate,43,true
+708,Ashton,Male,rural,5749,6.3,High school,80,true
+709,Cyrille,Male,rural,811556,6.9,Graduate,5,true
+710,Walton,Male,urban,342835,2.9,High school,84,true
+711,Hobey,Male,rural,868792,8.7,illiterate,5,true
+712,Rhona,Female,rural,429056,6.9,illiterate,47,false
+713,Phedra,Female,urban,962191,1.5,illiterate,32,true
+714,Dino,Polygender,urban,612041,2.4,illiterate,89,false
+715,Romola,Female,urban,944977,6.4,High school,3,true
+716,Urbano,Genderfluid,urban,728896,5.6,illiterate,100,false
+717,Willy,Male,urban,691344,7.7,illiterate,18,true
+718,Sallyanne,Female,urban,780005,0.6,illiterate,50,true
+719,Missie,Female,urban,888063,0.5,High school,25,true
+720,Rufe,Male,urban,183561,4.1,Graduate,45,false
+721,Rodina,Female,rural,728161,5.0,Graduate,17,true
+722,Larine,Female,urban,283807,9.1,Graduate,9,false
+723,Giovanni,Male,rural,44189,6.7,Graduate,21,true
+724,Jackson,Male,urban,988342,8.4,Graduate,50,false
+725,Ora,Female,rural,462075,7.0,illiterate,35,false
+726,Ange,Female,urban,554210,0.9,High school,67,false
+727,Cyrille,Non-binary,rural,648610,1.6,High school,58,false
+728,Kimbell,Male,urban,546408,2.9,High school,34,true
+729,Bern,Male,urban,673524,1.7,illiterate,87,false
+730,Wileen,Female,rural,318552,0.1,illiterate,49,true
+731,Augy,Male,urban,674375,0.8,illiterate,31,false
+732,Kimmi,Female,urban,887717,4.9,Graduate,57,true
+733,Jeffry,Male,rural,41297,4.9,Graduate,71,false
+734,Luis,Male,rural,479658,8.6,High school,61,true
+735,Isac,Male,rural,555424,8.5,Graduate,77,true
+736,Ulberto,Male,rural,465024,0.4,Graduate,75,false
+737,Uri,Male,urban,534511,3.9,Graduate,52,false
+738,Drusy,Female,urban,702652,0.6,Graduate,73,false
+739,Nata,Female,rural,395728,8.6,illiterate,9,true
+740,Abraham,Male,rural,941178,5.3,High school,54,false
+741,Pinchas,Male,urban,312213,3.6,illiterate,78,false
+742,Addie,Polygender,rural,731135,8.2,Graduate,95,true
+743,Lowe,Male,rural,967878,3.2,High school,23,false
+744,Maynard,Male,rural,476180,6.4,illiterate,92,false
+745,Dorella,Female,urban,355221,3.1,illiterate,63,true
+746,Leonard,Male,urban,848866,8.4,Graduate,61,true
+747,Sanson,Male,urban,186555,6.8,High school,10,false
+748,Mac,Male,rural,140666,4.4,High school,4,true
+749,Berthe,Female,rural,4394,9.3,High school,93,false
+750,Gage,Male,urban,762249,5.2,High school,43,false
+751,Sanford,Male,rural,693092,5.1,High school,12,false
+752,Bunny,Female,urban,980769,2.8,illiterate,63,false
+753,Karie,Bigender,rural,577433,6.4,illiterate,81,true
+754,Linette,Female,urban,681756,4.0,Graduate,88,true
+755,Colan,Male,urban,683257,6.0,illiterate,34,true
+756,Rafaello,Male,rural,660348,5.8,High school,94,false
+757,Donnie,Male,urban,914820,1.5,High school,65,false
+758,Stefa,Female,urban,693718,9.8,illiterate,57,true
+759,Darcy,Female,rural,968963,2.5,Graduate,27,true
+760,Hildy,Female,urban,530275,2.8,Graduate,47,true
+761,Lesli,Female,rural,130410,7.0,High school,65,true
+762,Caryn,Bigender,urban,273742,1.7,High school,57,true
+763,Elicia,Female,rural,483476,9.2,illiterate,47,false
+764,Baudoin,Genderfluid,rural,407316,2.0,illiterate,34,true
+765,Alphard,Male,urban,928111,3.7,Graduate,7,true
+766,Hanan,Male,urban,502444,5.6,High school,51,true
+767,Emmy,Male,rural,697731,5.6,High school,55,true
+768,Lola,Female,rural,640403,9.4,High school,100,true
+769,Ernie,Male,rural,70454,1.9,illiterate,67,false
+770,Giff,Male,rural,323972,6.5,High school,33,true
+771,Garrick,Polygender,urban,488195,3.6,Graduate,75,false
+772,Chancey,Male,rural,178731,3.6,Graduate,52,false
+773,Dionysus,Male,rural,788102,1.1,illiterate,86,false
+774,Annelise,Female,urban,607514,6.7,High school,17,true
+775,Chastity,Female,urban,974169,6.8,Graduate,48,false
+776,Alidia,Female,urban,449190,3.3,High school,73,true
+777,Holden,Male,rural,442837,0.5,illiterate,5,false
+778,Melissa,Female,urban,21141,3.5,High school,80,false
+779,Seward,Male,rural,484005,4.8,illiterate,63,false
+780,Friedrick,Male,rural,38869,0.9,High school,4,true
+781,Judi,Female,rural,634353,7.7,illiterate,62,true
+782,Emelita,Female,rural,212495,5.2,illiterate,99,true
+783,Sigismond,Male,urban,110988,1.6,High school,36,false
+784,Leonanie,Female,urban,693870,5.9,High school,8,false
+785,Chickie,Female,urban,858963,1.6,Graduate,44,false
+786,Jard,Male,urban,427309,1.5,illiterate,3,true
+787,Berkly,Male,rural,335953,7.6,illiterate,70,true
+788,Clyve,Male,urban,951477,4.0,High school,7,true
+789,Granger,Male,urban,940504,2.1,High school,92,true
+790,Konstantin,Agender,rural,984857,2.2,illiterate,91,false
+791,Adair,Male,rural,886795,2.8,High school,77,true
+792,Llewellyn,Male,urban,81051,0.3,Graduate,63,false
+793,Francklyn,Male,rural,816817,5.5,Graduate,36,false
+794,Winnie,Female,urban,456224,7.9,High school,2,false
+795,Ax,Polygender,urban,34757,2.0,illiterate,11,true
+796,Alfonse,Male,rural,81505,3.8,illiterate,25,false
+797,Johannah,Female,rural,347864,2.5,illiterate,80,false
+798,Nicol,Female,rural,507531,0.3,illiterate,39,false
+799,Paulette,Female,urban,312238,4.1,High school,3,true
+800,Innis,Male,rural,546443,9.1,illiterate,13,false
+801,Geneva,Female,rural,610244,2.5,illiterate,2,true
+802,Sheff,Male,urban,923174,6.5,illiterate,81,true
+803,Rand,Male,rural,666219,3.5,Graduate,69,false
+804,Dimitry,Male,urban,96063,7.0,illiterate,40,false
+805,Shane,Genderfluid,urban,106844,7.3,illiterate,18,false
+806,Simeon,Male,rural,686078,6.1,High school,80,true
+807,Curtice,Male,urban,751625,8.5,illiterate,5,false
+808,Sarine,Female,rural,154986,9.4,Graduate,19,true
+809,Casi,Female,urban,722344,2.3,Graduate,30,true
+810,Norry,Male,urban,432056,6.7,Graduate,26,false
+811,Else,Female,rural,218282,8.4,illiterate,17,false
+812,Bertrand,Male,urban,830153,4.6,Graduate,25,false
+813,Art,Male,urban,408135,3.1,High school,11,false
+814,Feliks,Male,urban,231944,6.7,High school,23,false
+815,Ebba,Female,urban,750086,1.6,Graduate,68,true
+816,Aviva,Genderqueer,urban,754783,8.7,High school,76,true
+817,Etheline,Female,rural,887961,2.5,Graduate,57,true
+818,Laughton,Male,urban,366622,3.3,illiterate,2,false
+819,Claudius,Male,urban,7174,0.2,High school,4,true
+820,Linnet,Genderqueer,urban,638054,1.0,Graduate,92,true
+821,Alanah,Polygender,rural,848112,6.6,illiterate,99,false
+822,Rafferty,Male,urban,223328,4.2,illiterate,87,false
+823,Sybilla,Female,rural,199032,4.9,High school,66,true
+824,Lucienne,Female,urban,442848,4.9,Graduate,51,false
+825,Cheston,Male,rural,601809,2.8,Graduate,8,false
+826,Skye,Male,urban,561597,7.0,High school,61,true
+827,Fleming,Male,rural,751033,5.6,High school,1,false
+828,Bernadina,Female,rural,446466,5.0,illiterate,54,true
+829,Jemimah,Female,rural,102700,3.1,illiterate,100,true
+830,Tory,Female,rural,340648,8.8,illiterate,19,false
+831,Grenville,Male,urban,65409,9.9,High school,48,false
+832,Viole,Female,rural,942133,4.5,illiterate,3,false
+833,Aurilia,Female,urban,761486,9.8,High school,65,true
+834,Worden,Male,rural,122488,10.0,illiterate,80,true
+835,Madlen,Female,rural,21827,0.2,High school,36,true
+836,Corissa,Female,rural,594112,2.9,High school,33,false
+837,Inge,Female,urban,835581,3.6,Graduate,3,false
+838,Rouvin,Male,urban,384082,3.3,High school,98,true
+839,Lydia,Female,rural,577574,2.4,Graduate,6,true
+840,Artemus,Male,urban,298024,9.5,High school,99,true
+841,Maury,Bigender,rural,512396,2.0,Graduate,8,true
+842,Maxwell,Male,urban,132312,5.5,High school,7,true
+843,Rudy,Male,rural,4562,5.1,High school,40,true
+844,Hillary,Male,rural,993982,7.7,illiterate,64,true
+845,Carolin,Genderfluid,urban,42627,8.2,illiterate,82,false
+846,Erinn,Female,rural,615086,6.3,Graduate,60,true
+847,Willette,Female,urban,861945,4.0,illiterate,56,true
+848,Evangeline,Female,rural,133991,4.2,High school,49,false
+849,Kessiah,Female,rural,433010,9.3,illiterate,3,false
+850,Ileana,Female,rural,143791,7.1,illiterate,75,true
+851,Britt,Female,urban,889068,1.2,High school,2,true
+852,Denna,Female,rural,612051,0.6,Graduate,78,false
+853,Bert,Genderqueer,urban,472577,9.8,Graduate,17,true
+854,Lynn,Male,rural,25039,3.1,illiterate,60,false
+855,Rose,Female,urban,151101,1.4,illiterate,68,false
+856,Yelena,Female,urban,131456,4.8,illiterate,14,true
+857,Sheela,Polygender,urban,86939,2.7,Graduate,33,false
+858,Constantin,Male,rural,584978,9.7,Graduate,93,false
+859,Grace,Male,urban,542896,6.1,High school,71,true
+860,Lyndsie,Female,rural,962599,1.3,illiterate,29,false
+861,Erasmus,Male,rural,281557,1.0,illiterate,58,false
+862,Morty,Male,rural,642972,6.8,Graduate,56,true
+863,Wini,Female,urban,328290,1.0,Graduate,94,true
+864,Gwendolen,Female,urban,741253,5.1,illiterate,71,false
+865,Antonino,Male,rural,499484,1.0,illiterate,72,false
+866,Saw,Male,rural,275972,0.8,illiterate,29,false
+867,Travus,Male,urban,191736,8.0,High school,80,false
+868,Tobe,Male,urban,244280,8.4,illiterate,59,false
+869,Josefa,Female,rural,143250,5.0,illiterate,88,true
+870,Peggie,Female,urban,372349,1.6,High school,94,false
+871,Mohandis,Male,urban,265375,8.2,illiterate,49,false
+872,Tobias,Male,urban,936296,0.5,Graduate,0,false
+873,Esmaria,Female,rural,646666,0.6,Graduate,17,true
+874,Rowen,Agender,rural,731474,2.4,High school,27,true
+875,Arie,Male,urban,886358,0.5,illiterate,55,false
+876,Englebert,Male,urban,769611,0.3,High school,24,true
+877,Deedee,Female,rural,259689,8.0,High school,50,true
+878,Tina,Female,rural,77556,9.9,High school,28,false
+879,Lee,Male,rural,84446,1.4,High school,63,true
+880,Alia,Female,rural,554571,8.1,illiterate,74,true
+881,Coletta,Female,rural,964419,2.6,illiterate,77,false
+882,Yard,Male,urban,961603,3.4,Graduate,31,true
+883,Jakie,Male,urban,296854,6.7,High school,48,true
+884,Norbert,Male,rural,60462,8.3,illiterate,92,false
+885,Ruprecht,Male,urban,766003,7.3,Graduate,81,false
+886,Anthia,Female,urban,374196,5.7,High school,32,true
+887,Josy,Female,rural,29958,2.8,High school,93,true
+888,Kathryn,Female,rural,379370,6.6,illiterate,58,true
+889,Mirella,Female,rural,990909,0.6,Graduate,69,true
+890,Christiane,Female,rural,298693,7.0,illiterate,25,true
+891,Belvia,Female,urban,78290,1.5,High school,58,false
+892,Rustie,Male,rural,349689,2.8,illiterate,24,false
+893,Kelsey,Female,rural,318652,0.4,illiterate,10,false
+894,Bernadene,Female,urban,147416,0.7,Graduate,22,false
+895,Celia,Female,rural,51656,1.3,High school,4,false
+896,Terrell,Male,rural,935265,8.0,Graduate,21,false
+897,Viole,Female,rural,458209,2.6,High school,55,true
+898,Charmane,Female,urban,861893,7.9,illiterate,70,false
+899,Jenda,Female,rural,746664,9.3,Graduate,81,true
+900,Waite,Male,rural,994798,4.1,illiterate,85,false
+901,Jeanelle,Female,urban,249093,7.8,High school,92,true
+902,Doralynne,Female,rural,592696,7.5,High school,0,true
+903,Edythe,Polygender,urban,903222,1.4,Graduate,15,false
+904,Stephenie,Female,urban,108391,9.7,Graduate,39,false
+905,Conrado,Bigender,rural,610991,5.7,High school,53,true
+906,Quintin,Male,urban,389828,0.3,illiterate,96,false
+907,Levon,Male,urban,482847,6.0,illiterate,62,true
+908,Ronny,Female,urban,539220,5.2,High school,81,false
+909,Judith,Female,rural,774990,9.2,High school,22,true
+910,Gianni,Male,urban,678371,1.0,High school,95,false
+911,Martelle,Female,rural,117501,6.1,High school,39,false
+912,Cob,Male,rural,630940,2.7,High school,37,false
+913,Isidore,Male,rural,238821,7.3,illiterate,7,false
+914,Tonia,Female,urban,873635,0.1,Graduate,27,true
+915,Morrie,Male,urban,682035,4.7,Graduate,67,false
+916,Ladonna,Female,urban,429665,4.8,High school,82,false
+917,Jelene,Female,urban,51231,5.8,Graduate,44,true
+918,June,Female,urban,216156,2.7,High school,10,false
+919,Alford,Male,rural,413556,1.4,Graduate,63,true
+920,Arvie,Male,rural,174976,6.4,High school,76,false
+921,Charles,Male,urban,555834,3.2,High school,59,false
+922,Berk,Polygender,rural,111251,0.5,illiterate,46,false
+923,Sandor,Male,rural,964631,2.9,illiterate,77,false
+924,Geneva,Female,urban,989573,0.2,High school,25,true
+925,Martelle,Female,rural,747675,6.8,illiterate,4,false
+926,Nicholas,Male,urban,82887,6.9,High school,76,false
+927,Kaitlin,Female,urban,333647,0.5,Graduate,52,false
+928,Tull,Male,urban,471509,7.4,Graduate,16,true
+929,Elissa,Female,urban,833830,3.7,High school,60,false
+930,Jennilee,Female,urban,73564,8.2,illiterate,48,false
+931,Constanta,Female,rural,878005,9.9,High school,64,false
+932,Con,Male,rural,556793,5.8,illiterate,92,false
+933,Taddeusz,Male,rural,702626,2.9,High school,85,false
+934,Lana,Female,rural,283321,0.0,illiterate,57,false
+935,Atlante,Female,rural,247935,3.0,High school,23,false
+936,Bessie,Female,urban,834311,7.7,High school,16,true
+937,Silvia,Female,urban,63339,7.5,illiterate,95,true
+938,Harlan,Male,urban,217888,3.1,Graduate,41,true
+939,Alick,Male,rural,355419,8.9,Graduate,41,true
+940,Lewes,Male,urban,262013,0.8,Graduate,32,false
+941,Aubrey,Male,urban,838862,2.5,High school,32,false
+942,Brig,Male,urban,768085,8.6,High school,53,true
+943,Marje,Female,urban,107144,6.4,Graduate,70,true
+944,Lucinda,Female,rural,86526,6.9,Graduate,97,false
+945,Elliott,Male,urban,272536,8.4,Graduate,73,false
+946,Tess,Female,urban,877053,4.3,High school,53,true
+947,Reginald,Male,rural,12524,5.6,High school,61,false
+948,Rowland,Male,rural,907099,4.3,High school,17,false
+949,Catharine,Female,rural,671018,4.9,illiterate,1,true
+950,Sukey,Female,urban,267239,5.1,illiterate,53,false
+951,Liam,Male,rural,255675,3.0,High school,0,false
+952,Myranda,Female,rural,259240,6.3,illiterate,10,false
+953,Sully,Male,urban,264177,4.2,High school,58,false
+954,Hadley,Male,rural,234015,1.6,High school,77,false
+955,Adolphus,Male,urban,850558,6.4,Graduate,10,false
+956,Micki,Female,urban,110427,0.7,illiterate,34,true
+957,Ericka,Bigender,rural,570308,6.7,illiterate,97,false
+958,Celinda,Female,rural,149533,3.5,illiterate,28,true
+959,Linc,Male,rural,706472,1.4,Graduate,57,true
+960,Winnie,Male,rural,103075,2.7,High school,52,true
+961,Zacherie,Male,rural,215842,0.8,Graduate,55,false
+962,Bernita,Female,urban,33728,5.7,High school,89,false
+963,West,Male,rural,560567,4.9,High school,100,false
+964,Marcus,Male,urban,77743,4.4,High school,3,true
+965,Zerk,Male,urban,941330,6.0,illiterate,74,false
+966,Micky,Male,rural,443227,8.1,Graduate,55,false
+967,Dael,Genderqueer,rural,679395,3.8,High school,82,true
+968,Westbrook,Male,rural,3933,9.5,High school,21,false
+969,Pavlov,Bigender,urban,978483,2.6,illiterate,39,true
+970,Rosaline,Female,rural,516686,1.9,illiterate,39,false
+971,Morna,Female,urban,160177,2.7,Graduate,52,false
+972,Gelya,Female,urban,218874,4.4,High school,27,true
+973,Nikki,Genderqueer,rural,822288,0.7,illiterate,58,true
+974,Elga,Female,rural,578874,1.9,Graduate,28,true
+975,Herby,Male,urban,718594,7.0,illiterate,98,false
+976,Kari,Female,rural,708233,6.4,High school,85,true
+977,Isidro,Male,rural,16395,2.6,illiterate,51,false
+978,Karissa,Female,rural,892044,2.8,Graduate,15,false
+979,Glen,Male,urban,406425,8.4,illiterate,95,true
+980,Ara,Male,urban,869806,3.4,Graduate,23,true
+981,Rodge,Male,urban,463918,3.3,Graduate,69,false
+982,Marius,Male,rural,656512,7.0,High school,83,false
+983,Roxanna,Female,rural,46608,0.4,Graduate,12,false
+984,Jocelyne,Female,urban,598685,1.4,High school,95,false
+985,Reba,Female,rural,744230,2.0,illiterate,57,false
+986,Basia,Non-binary,rural,763267,3.7,illiterate,63,true
+987,Buddy,Male,rural,500112,4.0,Graduate,100,true
+988,Cordy,Agender,rural,297495,3.7,High school,72,true
+989,Dru,Female,urban,133049,7.3,illiterate,1,false
+990,Klara,Female,urban,268896,2.1,High school,43,false
+991,Berrie,Female,urban,186803,0.4,High school,11,true
+992,Verla,Female,rural,281294,1.0,High school,13,true
+993,Renaldo,Male,rural,515455,8.7,High school,27,false
+994,Milty,Male,urban,234815,3.8,illiterate,83,true
+995,Forrester,Male,urban,288069,6.3,Graduate,26,false
+996,Paulie,Polygender,urban,921977,8.7,Graduate,16,false
+997,Yancey,Male,rural,734661,2.5,High school,70,false
+998,Marylee,Female,rural,240330,9.9,High school,96,true
+999,Renell,Female,rural,512529,6.0,illiterate,94,false
+1000,Glenn,Male,urban,731817,7.3,illiterate,65,true

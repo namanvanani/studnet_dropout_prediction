@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+   margin: 0;
+}
+.predict-main{
+    width: 40%;
+}
+#prediction-form{
+    background-color: #fff;
+    padding: 20px;
+   /* width: 50%; */
+    border-radius: 5px;
+    box-shadow: 0 0 5px #ccc;
+    text-align: left;
+    /* max-width: 600px; */
+    margin: 50px auto;
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+select, input {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
